@@ -1,0 +1,6 @@
+[lbs]
+lb ansible_connection=local
+
+[apps]
+app1 ansible_ssh_host=192.168.31.126
+app2 ansible_ssh_host=192.168.31.125
